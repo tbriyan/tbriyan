@@ -1,3 +1,4 @@
+![Fondo de pantalla](/tbriyan/img/fondo.jpg)
 - 👋 Hi, I’m @tbriyan
 - 👀 I’m interested in create new software with web technologies and machine learning
 - 🌱 I’m currently learning javascript, java, python
